@@ -6,7 +6,3 @@
 
 * [MySQL learning](mysql/mysql-learning.md)
 
----
-
-* [Untitled](untitled.md)
-
